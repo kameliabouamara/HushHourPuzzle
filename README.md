@@ -1,4 +1,4 @@
-#rushhourpuzzle 
-using a star  algorithm and heuristics
+#rushhourpuzzle
+using a star algorithm and heuristics
 
 desc
